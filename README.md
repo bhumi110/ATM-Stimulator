@@ -1,2 +1,2 @@
 # ATM-Stimulator
-ATM Stimulator is a C language based program which will help you manage your account balance more efficiently by just simple steps.
+ATM Stimulator is a C language-based program that will help you manage your account balance more efficiently with some simple steps.
